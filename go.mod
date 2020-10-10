@@ -1,4 +1,4 @@
-module mico
+module github.com/sunson1980/shippy
 
 go 1.15
 
